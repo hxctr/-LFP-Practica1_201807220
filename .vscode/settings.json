@@ -1,0 +1,6 @@
+{
+    "indentRainbow.includedLanguages": [
+        "python"
+    ],
+    "python.formatting.provider": "yapf"
+}
